@@ -1,0 +1,2 @@
+# gettingStartedWithGit
+Practicing git commands
